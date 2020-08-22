@@ -14,7 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱  I’m currently learning React.js <br/>
-
 
 ![Visitor Count](https://profile-counter.glitch.me/{username}/count.svg)
