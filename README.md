@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Visitor Count](https://profile-counter.glitch.me/{username}/count.svg)
+[![Website](https://img.shields.io/badge/web-shaft49.github.io-blue)](https://shaft49.github.io)
+[![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-Shafiul%20Islam-green)](https://www.linkedin.com/in/md-shafiul-islam-a34587107/)
